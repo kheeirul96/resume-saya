@@ -1,7 +1,7 @@
-# Welcome to Blackdoe Online Resume!
+# Welcome to resume-saya!
 
-# Author: Ankanna
-# email: bugboy@gmx.com
+# Author: Kheeirul Amidzal
+# email: kheeirul96@gmail.com
 
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -17,14 +17,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Online Resume
-authorName: Ankanna
-email: bugboy@gmx.com
+authorName: Kheeirul Amidzal
+email: kheeirul96@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is onlin Resume for the developers.
+  This is online Resume for the developers.
 baseurl: / # the subpath of your site, e.g. /blog
-url: "http://resume.blackode.in" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tweetblackode
-github_username:  blackode
+url: "https://github.com/kheeirul96/resume-saya" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username: kheeirul96
 
 # Build settings
 markdown: kramdown
