@@ -21,7 +21,7 @@ authorName: Kheeirul Amidzal
 email: kheeirul96@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is online Resume for the developers.
-baseurl: "https://github.com/kheeirul96/resume-saya" # the subpath of your site, e.g. /blog
+baseurl: "/resume-saya" # the subpath of your site, e.g. /blog
 url: "https://github.com/kheeirul96/resume-saya" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: kheeirul96
